@@ -10,7 +10,7 @@ def getTaxonomy():
     cur.execute("SELECT taxonomy_json FROM taxonomy")
     return cur.fetchone()[0]
 
-#   Get children from 
+#   Get children from
 def getChildren(cat_path):
     children = []
     for category in categories.keys():
@@ -27,7 +27,8 @@ def getChildren(cat_path):
 
 
 def createTree(category):
-    new_dict = { "name" : categories[category]['label'] }
+    new_dict = { "name" : categories[category]['label'],
+                 "path": category }
     if getChildren(category):
         new_dict["children"] = [ createTree(child) for child in getChildren(category) ]
     return new_dict
