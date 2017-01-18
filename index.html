@@ -33,7 +33,7 @@
 
 var margin = {top: 20, right: 120, bottom: 20, left: 120},
     width = 960*2 - margin.right - margin.left,
-    height = 800*2 - margin.top - margin.bottom;
+    height = 1500*2 - margin.top - margin.bottom;
 
 var i = 0,
     duration = 750,
@@ -66,7 +66,7 @@ d3.json("taxonomy_tree.json", function(error, flare) {
     }
   }
 
-  root.children.forEach(collapse);
+  //root.children.forEach(collapse);
   update(root);
 });
 
