@@ -1,0 +1,1248 @@
+{
+  "name": "Products", 
+  "children": [
+    {
+      "name": "Women's", 
+      "children": [
+        {
+          "name": "Shoes", 
+          "children": [
+            {
+              "name": "Outdoor", 
+              "children": [
+                {
+                  "name": "Boots", 
+                  "children": [
+                    {
+                      "name": "Cold Weather Boots"
+                    }
+                  ]
+                }
+              ]
+            }, 
+            {
+              "name": "Slippers"
+            }, 
+            {
+              "name": "Athletic"
+            }, 
+            {
+              "name": "Pumps"
+            }, 
+            {
+              "name": "Mules & Clogs"
+            }, 
+            {
+              "name": "Flats"
+            }, 
+            {
+              "name": "Boots", 
+              "children": [
+                {
+                  "name": "Riding"
+                }
+              ]
+            }, 
+            {
+              "name": "Espadrilles"
+            }, 
+            {
+              "name": "Fashion Sneakers"
+            }, 
+            {
+              "name": "Sandals", 
+              "children": [
+                {
+                  "name": "Slides"
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Jewelry", 
+          "children": [
+            {
+              "name": "Body Jewelry"
+            }, 
+            {
+              "name": "Rings"
+            }, 
+            {
+              "name": "Jewelry Sets"
+            }, 
+            {
+              "name": "Earrings"
+            }, 
+            {
+              "name": "Brooches & Pins"
+            }, 
+            {
+              "name": "Jewelry Boxes"
+            }
+          ]
+        }, 
+        {
+          "name": "Accessories", 
+          "children": [
+            {
+              "name": "Hats"
+            }, 
+            {
+              "name": "Scarves"
+            }, 
+            {
+              "name": "Eyewear"
+            }, 
+            {
+              "name": "Gloves"
+            }
+          ]
+        }, 
+        {
+          "name": "Clothing", 
+          "children": [
+            {
+              "name": "Sleepwear & Robes", 
+              "children": [
+                {
+                  "name": "Pajamas", 
+                  "children": [
+                    {
+                      "name": "Pajama Sets"
+                    }
+                  ]
+                }
+              ]
+            }, 
+            {
+              "name": "Maternity", 
+              "children": [
+                {
+                  "name": "Tights & Hosiery"
+                }
+              ]
+            }, 
+            {
+              "name": "Socks & Hosiery", 
+              "children": [
+                {
+                  "name": "Tights"
+                }, 
+                {
+                  "name": "Pantyhose"
+                }
+              ]
+            }, 
+            {
+              "name": "Swim", 
+              "children": [
+                {
+                  "name": "Cover-Ups"
+                }
+              ]
+            }, 
+            {
+              "name": "Jeans"
+            }, 
+            {
+              "name": "Coats & Jackets", 
+              "children": [
+                {
+                  "name": "Wool"
+                }, 
+                {
+                  "name": "Parkas"
+                }
+              ]
+            }, 
+            {
+              "name": "Suits & Separates", 
+              "children": [
+                {
+                  "name": "Blazers & Suit Jackets"
+                }, 
+                {
+                  "name": "Dress Suits"
+                }, 
+                {
+                  "name": "Skirt Suits"
+                }
+              ]
+            }, 
+            {
+              "name": "Dresses", 
+              "children": [
+                {
+                  "name": "Sweater Dresses"
+                }, 
+                {
+                  "name": "Formal & Special Occasions"
+                }
+              ]
+            }, 
+            {
+              "name": "Skirts"
+            }, 
+            {
+              "name": "Vests"
+            }, 
+            {
+              "name": "Shorts"
+            }, 
+            {
+              "name": "Active", 
+              "children": [
+                {
+                  "name": "Sports Bras"
+                }, 
+                {
+                  "name": "Active Shirts & Tees"
+                }, 
+                {
+                  "name": "Active Pants", 
+                  "children": [
+                    {
+                      "name": "Capris"
+                    }, 
+                    {
+                      "name": "Track Pants"
+                    }
+                  ]
+                }
+              ]
+            }, 
+            {
+              "name": "Sweaters", 
+              "children": [
+                {
+                  "name": "Turtlenecks"
+                }, 
+                {
+                  "name": "Pullovers"
+                }, 
+                {
+                  "name": "Cardigans"
+                }, 
+                {
+                  "name": "Crewnecks"
+                }, 
+                {
+                  "name": "V-Necks"
+                }, 
+                {
+                  "name": "Ponchos"
+                }
+              ]
+            }, 
+            {
+              "name": "Tops & Tees", 
+              "children": [
+                {
+                  "name": "Blouses & Button-Down Shirts"
+                }, 
+                {
+                  "name": "Tanks & Camis"
+                }
+              ]
+            }, 
+            {
+              "name": "Pants", 
+              "children": [
+                {
+                  "name": "Cropped & Capris"
+                }, 
+                {
+                  "name": "Leggings"
+                }
+              ]
+            }, 
+            {
+              "name": "Intimates", 
+              "children": [
+                {
+                  "name": "Chemises, Teddies & Negligees"
+                }, 
+                {
+                  "name": "Bras"
+                }, 
+                {
+                  "name": "Panties"
+                }, 
+                {
+                  "name": "Lingerie Sets"
+                }, 
+                {
+                  "name": "Shapewear", 
+                  "children": [
+                    {
+                      "name": "Bodysuits"
+                    }
+                  ]
+                }, 
+                {
+                  "name": "Accessories"
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Bags", 
+          "children": [
+            {
+              "name": "Handbags"
+            }, 
+            {
+              "name": "Wallets"
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "Electronics, Toys & Games", 
+      "children": [
+        {
+          "name": "Accessories & Supplies", 
+          "children": [
+            {
+              "name": "Cables", 
+              "children": [
+                {
+                  "name": "Audio & Video"
+                }
+              ]
+            }, 
+            {
+              "name": "Office Electronics Accessories"
+            }
+          ]
+        }, 
+        {
+          "name": "Car Electronics"
+        }, 
+        {
+          "name": "Portable Audio & Video", 
+          "children": [
+            {
+              "name": "Portable DVD Players"
+            }
+          ]
+        }, 
+        {
+          "name": "Office Electronics", 
+          "children": [
+            {
+              "name": "Printers", 
+              "children": [
+                {
+                  "name": "Laser"
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "GPS & Navigation"
+        }, 
+        {
+          "name": "Home Audio & Theater"
+        }, 
+        {
+          "name": "Toys & Games", 
+          "children": [
+            {
+              "name": "Games", 
+              "children": [
+                {
+                  "name": "Game Room Games"
+                }
+              ]
+            }, 
+            {
+              "name": "Dolls", 
+              "children": [
+                {
+                  "name": "Toddler Dolls"
+                }
+              ]
+            }, 
+            {
+              "name": "Stuffed Animals & Plush"
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "Beauty", 
+      "children": [
+        {
+          "name": "Tools & Accessories", 
+          "children": [
+            {
+              "name": "Hair Styling Tools", 
+              "children": [
+                {
+                  "name": "Brushes"
+                }
+              ]
+            }, 
+            {
+              "name": "Makeup Brushes & Tools"
+            }, 
+            {
+              "name": "Bags & Cases"
+            }
+          ]
+        }, 
+        {
+          "name": "Makeup", 
+          "children": [
+            {
+              "name": "Makeup Remover"
+            }, 
+            {
+              "name": "Nails"
+            }, 
+            {
+              "name": "Face"
+            }, 
+            {
+              "name": "Makeup Palettes"
+            }, 
+            {
+              "name": "Eyes"
+            }, 
+            {
+              "name": "Lips", 
+              "children": [
+                {
+                  "name": "Lip Liners"
+                }, 
+                {
+                  "name": "Lip Glosses"
+                }, 
+                {
+                  "name": "Lipstick"
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Hair Care", 
+          "children": [
+            {
+              "name": "Styling Products"
+            }, 
+            {
+              "name": "Conditioners"
+            }, 
+            {
+              "name": "Shampoos"
+            }
+          ]
+        }, 
+        {
+          "name": "Bath & Body", 
+          "children": [
+            {
+              "name": "Cleansers"
+            }, 
+            {
+              "name": "Sets"
+            }
+          ]
+        }, 
+        {
+          "name": "Fragrance", 
+          "children": [
+            {
+              "name": "Sets"
+            }, 
+            {
+              "name": "Men's", 
+              "children": [
+                {
+                  "name": "Cologne"
+                }
+              ]
+            }, 
+            {
+              "name": "Candles & Home Scents", 
+              "children": [
+                {
+                  "name": "Home Fragrance Accessories"
+                }
+              ]
+            }, 
+            {
+              "name": "Women's", 
+              "children": [
+                {
+                  "name": "Cologne"
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Skin Care", 
+          "children": [
+            {
+              "name": "Body"
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "Kids' & Baby", 
+      "children": [
+        {
+          "name": "Boys'", 
+          "children": [
+            {
+              "name": "Clothing", 
+              "children": [
+                {
+                  "name": "Clothing Sets"
+                }, 
+                {
+                  "name": "Jeans"
+                }, 
+                {
+                  "name": "Shorts"
+                }, 
+                {
+                  "name": "Coats & Jackets"
+                }, 
+                {
+                  "name": "Pants"
+                }, 
+                {
+                  "name": "Socks"
+                }, 
+                {
+                  "name": "Shirts", 
+                  "children": [
+                    {
+                      "name": "Polos"
+                    }
+                  ]
+                }, 
+                {
+                  "name": "Sweaters"
+                }
+              ]
+            }, 
+            {
+              "name": "Shoes", 
+              "children": [
+                {
+                  "name": "Little Kid & Big Kid", 
+                  "children": [
+                    {
+                      "name": "Boots"
+                    }, 
+                    {
+                      "name": "Sandals"
+                    }, 
+                    {
+                      "name": "Slippers"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Little Kids", 
+          "children": [
+            {
+              "name": "Clothing"
+            }, 
+            {
+              "name": "Accessories"
+            }
+          ]
+        }, 
+        {
+          "name": "Girls'", 
+          "children": [
+            {
+              "name": "Shoes"
+            }, 
+            {
+              "name": "Clothing", 
+              "children": [
+                {
+                  "name": "Jeans"
+                }, 
+                {
+                  "name": "Pants"
+                }, 
+                {
+                  "name": "Dresses"
+                }, 
+                {
+                  "name": "Sweaters"
+                }, 
+                {
+                  "name": "Clothing Sets"
+                }, 
+                {
+                  "name": "Coats & Jackets"
+                }, 
+                {
+                  "name": "Socks & Tights"
+                }, 
+                {
+                  "name": "Shorts"
+                }, 
+                {
+                  "name": "Shirts"
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Infant & Toddler", 
+          "children": [
+            {
+              "name": "Clothing"
+            }, 
+            {
+              "name": "Baby Products", 
+              "children": [
+                {
+                  "name": "Car Seats & Accessories", 
+                  "children": [
+                    {
+                      "name": "Car Seats", 
+                      "children": [
+                        {
+                          "name": "Infant"
+                        }, 
+                        {
+                          "name": "Toddler"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "name": "Diaper Bags"
+                }, 
+                {
+                  "name": "Gear"
+                }, 
+                {
+                  "name": "Feeding"
+                }
+              ]
+            }, 
+            {
+              "name": "Shoes", 
+              "children": [
+                {
+                  "name": "Flats"
+                }, 
+                {
+                  "name": "Sandals"
+                }, 
+                {
+                  "name": "Boots"
+                }, 
+                {
+                  "name": "Slippers"
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Juniors'", 
+          "children": [
+            {
+              "name": "Clothing", 
+              "children": [
+                {
+                  "name": "Jeans"
+                }, 
+                {
+                  "name": "Shorts"
+                }, 
+                {
+                  "name": "Dresses"
+                }, 
+                {
+                  "name": "Coats & Jackets"
+                }, 
+                {
+                  "name": "Vests"
+                }, 
+                {
+                  "name": "Sweaters"
+                }, 
+                {
+                  "name": "Swim"
+                }, 
+                {
+                  "name": "Shirts, Blouses & Polos"
+                }, 
+                {
+                  "name": "Pants"
+                }, 
+                {
+                  "name": "Skirts"
+                }
+              ]
+            }, 
+            {
+              "name": "Bags"
+            }, 
+            {
+              "name": "Shoes", 
+              "children": [
+                {
+                  "name": "Sandals", 
+                  "children": [
+                    {
+                      "name": "Slides"
+                    }
+                  ]
+                }, 
+                {
+                  "name": "Boots"
+                }
+              ]
+            }, 
+            {
+              "name": "Accessories", 
+              "children": [
+                {
+                  "name": "Scarves"
+                }, 
+                {
+                  "name": "Hats"
+                }, 
+                {
+                  "name": "Eyewear"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "Home", 
+      "children": [
+        {
+          "name": "Pet Supplies"
+        }, 
+        {
+          "name": "Furniture & Décor", 
+          "children": [
+            {
+              "name": "Furniture", 
+              "children": [
+                {
+                  "name": "Dining Room Furniture"
+                }
+              ]
+            }, 
+            {
+              "name": "Lighting"
+            }, 
+            {
+              "name": "Home Décor", 
+              "children": [
+                {
+                  "name": "Home Décor Accents"
+                }, 
+                {
+                  "name": "Area Rugs & Pads"
+                }, 
+                {
+                  "name": "Slipcovers"
+                }, 
+                {
+                  "name": "Christmas Décor"
+                }, 
+                {
+                  "name": "Decorative Pillows"
+                }, 
+                {
+                  "name": "Window Treatments", 
+                  "children": [
+                    {
+                      "name": "Blinds & Shades"
+                    }, 
+                    {
+                      "name": "Tiers"
+                    }, 
+                    {
+                      "name": "Draperies & Curtains"
+                    }
+                  ]
+                }, 
+                {
+                  "name": "Fireplaces & Accessories"
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Tools & Home Improvement", 
+          "children": [
+            {
+              "name": "Heating & Cooling"
+            }
+          ]
+        }, 
+        {
+          "name": "Vacuums, Cleaning & Storage"
+        }, 
+        {
+          "name": "Stationery & Party Supplies"
+        }, 
+        {
+          "name": "Health & Personal Care", 
+          "children": [
+            {
+              "name": "Health Care", 
+              "children": [
+                {
+                  "name": "Women's Health"
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Shoe Care & Cleaning", 
+          "children": [
+            {
+              "name": "Shoe Care Accessories"
+            }
+          ]
+        }, 
+        {
+          "name": "Bedding & Bath", 
+          "children": [
+            {
+              "name": "Bath", 
+              "children": [
+                {
+                  "name": "Bathroom Accessories", 
+                  "children": [
+                    {
+                      "name": "Shower Curtains, Hooks & Liners"
+                    }
+                  ]
+                }, 
+                {
+                  "name": "Towels"
+                }, 
+                {
+                  "name": "Bath Rugs"
+                }
+              ]
+            }, 
+            {
+              "name": "Bedding", 
+              "children": [
+                {
+                  "name": "Blankets & Throws", 
+                  "children": [
+                    {
+                      "name": "Bed Blankets"
+                    }
+                  ]
+                }, 
+                {
+                  "name": "Mattress Pads"
+                }, 
+                {
+                  "name": "Bedding Collections"
+                }, 
+                {
+                  "name": "Bed in a Bag"
+                }, 
+                {
+                  "name": "Bed Pillows", 
+                  "children": [
+                    {
+                      "name": "Travel Pillows"
+                    }
+                  ]
+                }, 
+                {
+                  "name": "Sheets & Pillowcases"
+                }, 
+                {
+                  "name": "Feather Beds"
+                }, 
+                {
+                  "name": "Comforters & Sets"
+                }, 
+                {
+                  "name": "Quilts"
+                }, 
+                {
+                  "name": "Duvet Covers & Sets"
+                }, 
+                {
+                  "name": "Kids' Bedding"
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Laptop Bags & Cases"
+        }, 
+        {
+          "name": "Luggage, Bags & Travel", 
+          "children": [
+            {
+              "name": "Briefcases"
+            }, 
+            {
+              "name": "Bags & Backpacks", 
+              "children": [
+                {
+                  "name": "Gym Bags"
+                }, 
+                {
+                  "name": "Messenger Bags"
+                }
+              ]
+            }, 
+            {
+              "name": "Luggage", 
+              "children": [
+                {
+                  "name": "Garment Bags"
+                }, 
+                {
+                  "name": "Carry-Ons"
+                }, 
+                {
+                  "name": "Totes"
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Bags & Backpacks"
+        }, 
+        {
+          "name": "Home Appliances", 
+          "children": [
+            {
+              "name": "Small Appliances", 
+              "children": [
+                {
+                  "name": "Ovens & Toasters", 
+                  "children": [
+                    {
+                      "name": "Toaster Ovens"
+                    }
+                  ]
+                }, 
+                {
+                  "name": "Coffee, Tea & Espresso Appliances", 
+                  "children": [
+                    {
+                      "name": "Espresso Machines"
+                    }
+                  ]
+                }, 
+                {
+                  "name": "Blenders"
+                }
+              ]
+            }, 
+            {
+              "name": "Air Conditioners & Fans"
+            }, 
+            {
+              "name": "Irons, Steamers & Accessories", 
+              "children": [
+                {
+                  "name": "Irons", 
+                  "children": [
+                    {
+                      "name": "Travel Irons"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Kitchen & Dining", 
+          "children": [
+            {
+              "name": "Kitchen Utensils & Gadgets"
+            }, 
+            {
+              "name": "Kitchen Knives & Cutlery Accessories", 
+              "children": [
+                {
+                  "name": "Cutlery Sets", 
+                  "children": [
+                    {
+                      "name": "Boxed Knife Sets"
+                    }
+                  ]
+                }
+              ]
+            }, 
+            {
+              "name": "Wine Accessories"
+            }, 
+            {
+              "name": "Coffee, Tea & Espresso"
+            }, 
+            {
+              "name": "Tableware", 
+              "children": [
+                {
+                  "name": "Serveware"
+                }, 
+                {
+                  "name": "Flatware"
+                }, 
+                {
+                  "name": "Dinnerware Sets"
+                }, 
+                {
+                  "name": "Glassware & Drinkware"
+                }
+              ]
+            }, 
+            {
+              "name": "Cookware", 
+              "children": [
+                {
+                  "name": "Pressure Cookers"
+                }, 
+                {
+                  "name": "Grill Pans"
+                }, 
+                {
+                  "name": "Woks & Stir-Fry Pans"
+                }, 
+                {
+                  "name": "All Pans"
+                }, 
+                {
+                  "name": "Cookware Sets"
+                }, 
+                {
+                  "name": "Lids"
+                }, 
+                {
+                  "name": "Roasting Pans"
+                }, 
+                {
+                  "name": "Dutch Ovens"
+                }
+              ]
+            }, 
+            {
+              "name": "Bakeware"
+            }, 
+            {
+              "name": "Kitchen & Table Linens"
+            }, 
+            {
+              "name": "Small Appliances"
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "Men's", 
+      "children": [
+        {
+          "name": "Shoes", 
+          "children": [
+            {
+              "name": "Boat Shoes"
+            }, 
+            {
+              "name": "Boots"
+            }, 
+            {
+              "name": "Athletic"
+            }, 
+            {
+              "name": "Slippers"
+            }, 
+            {
+              "name": "Sandals", 
+              "children": [
+                {
+                  "name": "Slides"
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Jewelry", 
+          "children": [
+            {
+              "name": "Shirt Studs"
+            }, 
+            {
+              "name": "Tie Clips"
+            }, 
+            {
+              "name": "Cuff Links"
+            }
+          ]
+        }, 
+        {
+          "name": "Accessories", 
+          "children": [
+            {
+              "name": "Wallets, Money & Key Organizers"
+            }, 
+            {
+              "name": "Gloves"
+            }, 
+            {
+              "name": "Belts"
+            }, 
+            {
+              "name": "Scarves"
+            }, 
+            {
+              "name": "Eyewear"
+            }, 
+            {
+              "name": "Ties & Cummerbunds"
+            }, 
+            {
+              "name": "Hats"
+            }
+          ]
+        }, 
+        {
+          "name": "Clothing", 
+          "children": [
+            {
+              "name": "Hoodies & Track Jackets"
+            }, 
+            {
+              "name": "Coats & Jackets", 
+              "children": [
+                {
+                  "name": "Wool"
+                }, 
+                {
+                  "name": "Parkas"
+                }
+              ]
+            }, 
+            {
+              "name": "Shorts"
+            }, 
+            {
+              "name": "T-Shirts"
+            }, 
+            {
+              "name": "Active", 
+              "children": [
+                {
+                  "name": "Sweatshirts, Pants & Suits"
+                }
+              ]
+            }, 
+            {
+              "name": "Underwear"
+            }, 
+            {
+              "name": "Jeans"
+            }, 
+            {
+              "name": "Sleepwear & Robes", 
+              "children": [
+                {
+                  "name": "Pajamas"
+                }
+              ]
+            }, 
+            {
+              "name": "Sports Fan Apparel"
+            }, 
+            {
+              "name": "Socks"
+            }, 
+            {
+              "name": "Shirts & Polos", 
+              "children": [
+                {
+                  "name": "Dress Shirts"
+                }
+              ]
+            }, 
+            {
+              "name": "Suits & Sport Coats", 
+              "children": [
+                {
+                  "name": "Suits"
+                }, 
+                {
+                  "name": "Sport Coats & Blazers"
+                }
+              ]
+            }, 
+            {
+              "name": "Sweaters", 
+              "children": [
+                {
+                  "name": "Vests"
+                }, 
+                {
+                  "name": "Cardigans"
+                }
+              ]
+            }, 
+            {
+              "name": "Undershirts", 
+              "children": [
+                {
+                  "name": "Tank Tops"
+                }
+              ]
+            }, 
+            {
+              "name": "Pants"
+            }, 
+            {
+              "name": "Swim"
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "Sports & Outdoors"
+    }
+  ]
+}
